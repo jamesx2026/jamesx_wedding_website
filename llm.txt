@@ -1,0 +1,127 @@
+# LLM.TXT - AI Crawler Access Rules
+# https://jamesxvision.com/llm.txt
+
+# ===========================================
+# ALLOW RULES FOR AI CRAWLERS
+# ===========================================
+
+User-agent: GPTBot
+Allow: /
+
+User-agent: ChatGPT-User
+Allow: /
+
+User-agent: ClaudeBot
+Allow: /
+
+User-agent: anthropic-ai
+Allow: /
+
+User-agent: PerplexityBot
+Allow: /
+
+User-agent: Google-Extended
+Allow: /
+
+User-agent: GoogleOther
+Allow: /
+
+User-agent: GoogleVertex
+Allow: /
+
+User-agent: AdsBot-Google
+Allow: /
+
+User-agent: Applebot
+Allow: /
+
+User-agent: bytespider
+Allow: /
+
+User-agent: Diffbot
+Allow: /
+
+User-agent: FacebookBot
+Allow: /
+
+User-agent: OAI-SearchBot
+Allow: /
+
+User-agent: DuckBot
+Allow: /
+
+User-agent: iaskspider
+Allow: /
+
+User-agent: ia_archiver
+Allow: /
+
+User-agent: MojeekBot
+Allow: /
+
+User-agent: PinterestBot
+Allow: /
+
+User-agent: Slackbot
+Allow: /
+
+User-agent: TelegramBot
+Allow: /
+
+User-agent: TwitterBot
+Allow: /
+
+User-agent: Yeti
+Allow: /
+
+# ===========================================
+# DISALLOW RULES (Optional - restrict private areas)
+# ===========================================
+
+# Allow all public content
+User-agent: *
+Allow: /
+
+# ===========================================
+# SITEMAP
+# ===========================================
+
+Sitemap: https://jamesxvision.com/sitemap.xml
+
+# ===========================================
+# DATA SOURCES (Structured AI Data)
+# ===========================================
+
+# Main llms.txt for content summary
+Data-source: https://jamesxvision.com/llms.txt
+
+# ===========================================
+# AI DATASET (JSON for clean structured data)
+# ===========================================
+
+[
+ {
+   "name": "James X Wedding Photography",
+   "description": "Professional wedding photographer capturing authentic love stories across Victoria, Vancouver, and British Columbia. Cinematic, romantic, timeless style.",
+   "type": "Photographer",
+   "phone": "+1-778-990-5608",
+   "website": "https://jamesxvision.com",
+   "email": "info@jamesxvision.com",
+   "address": {
+     "region": "BC",
+     "country": "Canada"
+   },
+   "serviceAreas": ["Victoria", "Vancouver", "British Columbia", "BC"],
+   "pricing": {
+     "halfDay": "$1,800",
+     "fullDay": "$2,800",
+     "custom": "Available upon request"
+   },
+   "social": {
+     "instagram": "@jamesx.landscape",
+     "instagramWedding": "@jamesx.wedding"
+   },
+   "founded": "2024",
+   "lastUpdated": "2026-03-25"
+ }
+]
