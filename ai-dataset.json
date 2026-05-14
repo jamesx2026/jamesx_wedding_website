@@ -1,0 +1,67 @@
+[
+ {
+   "name": "James X Wedding Photography",
+   "description": "Professional wedding photographer capturing authentic love stories across Victoria, Vancouver, and British Columbia. Cinematic, romantic, timeless style.",
+   "type": "Photographer",
+   "category": "Wedding Photography",
+   "phone": "+1-778-990-5608",
+   "website": "https://jamesxvision.com",
+   "email": "info@jamesxvision.com",
+   "address": {
+     "region": "British Columbia",
+     "locality": "Vancouver",
+     "country": "Canada"
+   },
+   "geo": {
+     "latitude": 49.2827,
+     "longitude": -123.1207
+   },
+   "serviceAreas": [
+     {
+       "name": "Vancouver",
+       "type": "City"
+     },
+     {
+       "name": "Victoria", 
+       "type": "City"
+     },
+     {
+       "name": "British Columbia",
+       "type": "Province"
+     }
+   ],
+   "pricing": {
+     "currency": "CAD",
+     "halfDay": {
+       "amount": 1800,
+       "description": "Coverage of ceremony and portraits, ideal for intimate weddings or elopements"
+     },
+     "fullDay": {
+       "amount": 2800,
+       "description": "Complete coverage from preparations through reception"
+     },
+     "custom": {
+       "available": true,
+       "description": "Tailored photography package to your specific needs"
+     }
+   },
+   "services": [
+     "Wedding photography",
+     "Ceremony coverage",
+     "Portrait sessions",
+     "Reception documentation",
+     "Destination weddings"
+   ],
+   "social": {
+     "instagram": "https://instagram.com/jamesx.landscape",
+     "instagramWedding": "https://instagram.com/jamesx.wedding"
+   },
+   "founded": 2024,
+   "yearsExperience": "Several years photographing weddings in BC",
+   "style": "Cinematic, romantic, timeless",
+   "background": "Former landscape photographer now focusing on wedding photography",
+   "availability": "Peak season books 6-12 months in advance",
+   "responseTime": "All enquiries responded within 48 hours",
+   "lastUpdated": "2026-03-25"
+ }
+]
