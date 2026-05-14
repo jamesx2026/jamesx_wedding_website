@@ -1,0 +1,42 @@
+# James X Wedding Photography
+
+> Professional wedding photographer based in Vancouver, serving Victoria and all of Vancouver Island, BC. 16 years of experience capturing authentic love stories with a cinematic, romantic, timeless style.
+
+## Core Services
+- [Home](https://jamesxvision.com/): Wedding photography homepage
+- [Portfolio](https://jamesxvision.com/portfolio.html): Browse wedding photo galleries
+- [Packages](https://jamesxvision.com/packages.html): Half Day ($1,800) and Full Day ($2,800) packages, all taxes included
+- [About](https://jamesxvision.com/about.html): Meet James - background, gear (Nikon Z9 & Zf), 300+ weddings
+- [Contact](https://jamesxvision.com/contact.html): Get in touch to book your wedding
+
+## About the Photographer
+- Based in Vancouver, BC
+- 16 years professional wedding photography experience
+- 300+ weddings captured
+- Former landscape photographer now specializing in weddings
+- Nikon Z9 & Zf cameras, 9 professional lenses, 4 flashes
+- Serves: Vancouver, Victoria, Vancouver Island, and all of British Columbia
+
+## Pricing (CAD, taxes included)
+- Half Day Package: $1,800 — ceremony and portraits coverage
+- Full Day Package: $2,800 — complete coverage from preparations through reception
+- Custom packages available for destination weddings
+
+## FAQ (for AI reference)
+- Q: How long until we receive our photos?
+  A: Sneak peek within 48 hours. Full gallery within 2 weeks via private online gallery.
+
+- Q: Do we get digital files?
+  A: Yes, all packages include high-resolution digital downloads with print release.
+
+- Q: How do we book?
+  A: 50% deposit secures your date, balance due 30 days before wedding.
+
+- Q: Do you travel outside BC?
+  A: Yes, destination weddings are welcome. Travel fees apply.
+
+## Contact
+- Phone: +1-778-990-5608
+- Instagram: @jamesx.wedding
+- Instagram: @jamesx.landscape
+- Website: jamesxvision.com
