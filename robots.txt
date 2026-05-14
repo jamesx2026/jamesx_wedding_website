@@ -1,0 +1,40 @@
+# ── Default Rules ─────────────────────────────
+User-agent: *
+Disallow: /admin/
+Disallow: /login/
+Disallow: /api/
+Disallow: /private/
+Allow: /
+
+# ── OpenAI ─────────────────────────────
+User-agent: GPTBot
+Allow: /
+
+# ── Anthropic ─────────────────────────
+User-agent: ClaudeBot
+Allow: /
+
+# ── Perplexity ────────────────────────
+User-agent: PerplexityBot
+Allow: /
+
+# ── Google AI ─────────────────────────
+User-agent: Google-Extended
+Allow: /
+
+# ── Meta AI ──────────────────────────
+User-agent: Meta-ExternalAgent
+Allow: /
+
+# ── Chinese AI Crawlers ──────────────────────────
+User-agent: QwenBot
+Allow: /
+User-agent: Bytespider
+Allow: /
+User-agent: Sogou
+Allow: /
+User-agent: BaiduSpider
+Allow: /
+
+# ── Sitemap ───────────────────────────
+Sitemap: https://jamesxvision.com/sitemap.xml
